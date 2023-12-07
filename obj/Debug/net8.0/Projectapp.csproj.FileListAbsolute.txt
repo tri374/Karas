@@ -1,0 +1,14 @@
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\bin\Debug\net8.0\Projectapp.exe
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\bin\Debug\net8.0\Projectapp.deps.json
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\bin\Debug\net8.0\Projectapp.runtimeconfig.json
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\bin\Debug\net8.0\Projectapp.dll
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\bin\Debug\net8.0\Projectapp.pdb
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.AssemblyInfoInputs.cache
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.AssemblyInfo.cs
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.csproj.CoreCompileInputs.cache
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.dll
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\refint\Projectapp.dll
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.pdb
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\Projectapp.genruntimeconfig.cache
+C:\Users\B-ZONE\Desktop\Creating\Projectapp\obj\Debug\net8.0\ref\Projectapp.dll
